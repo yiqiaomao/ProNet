@@ -118,7 +118,7 @@ class data_loder(data.Dataset):
         }
 
     def get_data(self, input):
-        self.fix_seed(870)
+        self.fix_seed(1120)
         tempgetdata = self.getdata.get(self.view_num)
         tempgetdata(input)
 
