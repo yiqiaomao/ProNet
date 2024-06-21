@@ -1,3 +1,4 @@
+## Memory-aware Continual Learning with Multi-modal Social Media Streams for Unsupervised Disaster Classification (ProNet)
 torch==1.8.0+cu111
 
 numpy==1.21.6
